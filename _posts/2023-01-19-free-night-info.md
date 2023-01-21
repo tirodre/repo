@@ -19,8 +19,6 @@ comments: false
 
 일본 번화가 (특히 도쿄, 오사카)를 걷다보면 꼭 아래 그림과 같은 가게를 볼 수 있습니다.
 
-<img src="https://user-images.githubusercontent.com/122518237/213441725-e8836b2f-c151-4482-9aaf-b2c70ecc3db6.png" width="700">
-
 한자를 그대로 번역하면 **"무료 안내소"** 인데요 무엇이 무료고 뭐를 안내하는 것일까요?
 
 주로 캬바쿠레나 스낵 같은 술집을 안내해주는 장소입니다.
@@ -29,7 +27,7 @@ comments: false
 
 예를 들면 제가 여태 쓴 블로그에 기재되어있는 문화들이죠 ㅎㅎ
 
-<a href="https://mmol.tistory.com/category/%EC%9D%BC%EB%B3%B8%20%EC%83%9D%ED%99%9C%20%EB%AC%B8%ED%99%94/%EC%9D%BC%EB%B3%B8%20%EB%B0%A4%EB%AC%B8%ED%99%94?page=1">이전에 제가 소개한 밤문화 포스팅들입니다.</a>
+<a href="https://mmol.tistory.com/203">이전에 제가 소개한 밤문화 포스팅들입니다.</a>
 
 그렇기 때문에 술집뿐 아니라 값싼 호텔이나 렌탈룸 같은거도 제공해주죠.
 
