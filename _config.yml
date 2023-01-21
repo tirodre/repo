@@ -20,7 +20,7 @@ tagline:             "'한국인'의 평범한 일본 이야기"
 # _data/authors.yml에 있는 description과 일치해야한다
 description:         >
   일본에 대한 이런 저런 정보를 알려드립니다!
-
+  
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Kkol
