@@ -27,7 +27,7 @@ comments: false
 
 예를 들면 제가 여태 쓴 블로그에 기재되어있는 문화들이죠 ㅎㅎ
 
-<a href="https://mmol.tistory.com/category/%EC%9D%BC%EB%B3%B8%20%EC%83%9D%ED%99%9C%20%EB%AC%B8%ED%99%94/%EC%9D%BC%EB%B3%B8%20%EB%B0%A4%EB%AC%B8%ED%99%94?page=1">이전에 제가 소개한 밤문화 포스팅들입니다.</a>
+<a href="https://mmol.tistory.com/203">이전에 제가 소개한 밤문화 포스팅들입니다.</a>
 
 그렇기 때문에 술집뿐 아니라 값싼 호텔이나 렌탈룸 같은거도 제공해주죠.
 
