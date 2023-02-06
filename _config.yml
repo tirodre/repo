@@ -104,6 +104,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-linkpreview
 
 exclude:
   - README.md
