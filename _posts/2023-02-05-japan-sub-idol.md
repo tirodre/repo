@@ -6,7 +6,6 @@ categories: japan-culture
 tags: culture 문화
 comments: true
 description: 일본에는 어떤 지하(지역) 아이돌이 있을까? 사실 일본 지역 아이돌은 매우 다양하고 컨셉도 이상한게 많기 때문에 딱 말해서 이런게 있다 라고 하기 어렵습니다. 그럼 예를 들어 어떠한 아이돌이 있는지 알아보겠습니다. 제가 살고 있는 지역인 카나가와를 예로 들어보면 다음과 같은 아이돌이 있습니다.
-header-img: https://user-images.githubusercontent.com/122518237/216804628-0e7e9a64-6217-440b-b850-bdd3dafd1d42.png
 ---  
 
 ### 일본의 지하 아이돌을 보기 위해선 뭐를 해야할까?
