@@ -116,19 +116,6 @@
   window.disableDrawer = {{ site.disable_drawer | default:false}};
 </script>
 
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org", 
-      "@type": "BlogPosting",
-      "headline": "{{ page.title }}",
-      "image": [
-        {{ post.header-img }}
-       ],
-      "description": {{ description | strip_html | truncatewords:50 }},
-      "datePublished": {{ page.date }}
-    }
-</script>
-
 <!--[if lt IE 9]>
 <script src="https://unpkg.com/html5shiv/dist/html5shiv.min.js"></script>
 <![endif]-->
