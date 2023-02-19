@@ -162,6 +162,11 @@
       "description": "{{ description | strip_html | truncatewords:50 }}",
       "datePublished": "{{ page.date }}",
       "headline": "{{ page.title }}",
+      "url": "{{ site.url }}{{ page.url }}",
+      "mainEntityOfPage":{
+          "@id":"{{ site.url }}{{ page.url }}",
+          "name":null
+      },
       "author": [
           {
             "@type": "Person",
