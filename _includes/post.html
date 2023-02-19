@@ -8,26 +8,6 @@
       {% if include.link_title %}</a>{% endif %}
     </h1>
 
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org", 
-            "@type": "BlogPosting",
-            "headline": "{{ page.title }}",
-            "image": [
-              {{ post.header-img }}
-            ],
-            "datePublished": "{{ post.date }}",
-            "author": [
-              {
-                "@type": "Person",
-                "name": "Kkol",
-                "url": "https://korean-worker.com/"
-              }
-            ]
-        }
-    </script>
-
-
     <p class="post-date heading">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time>
       {% include tag-list.html tags=post.categories meta=site.featured_categories start_with="in " separator=" / " %}
