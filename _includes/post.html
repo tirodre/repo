@@ -40,9 +40,18 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+        
 <br/>
       <!-- 각 포스팅 상단 링크 광고 삽입 -->  
-        {% linkpreview "https://s.click.aliexpress.com/e/_DdKehCl" %}
+      <!-- 텐핑 광고 -->  
+      {% if post.showAds %}
+            <tenping class="adsbytenping" style="width: 100%; margin: 0px auto; display: block; max-width: 768px;" tenping-ad-client="8zg5Li2u4%2fGxp%2fzf%2bMjMrori4OgvPHpd3P1oaWpxK5J9ofdHthAtx5Wcds%2bPOmju" tenping-ad-display-type="67%2be3LHzHbblsB9oLrOpWQ%3d%3d"></tenping>
+            <script async src='//ads.tenping.kr/scripts/adsbytenping.min.js'></script>
+      {% endif %}
+
+      <!-- 알리 광고 -->  
+      {% linkpreview "https://s.click.aliexpress.com/e/_DdKehCl" %}
       {{ post.content }}
       <br/>
       <br/>

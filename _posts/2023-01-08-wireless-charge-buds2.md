@@ -5,6 +5,7 @@ subtitle: "갤럭시 버즈2는 그냥 충전기에 올려두는 것 만으로�
 categories: it-story
 tags: IT 갤럭시 무선이어폰
 comments: true
+showAds: true
 ---  
 
 ### 갤럭시 버즈2 무선 충전 관련 정보
