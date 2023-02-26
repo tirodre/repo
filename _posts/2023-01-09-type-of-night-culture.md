@@ -5,6 +5,7 @@ subtitle: "일본의 밤문화 종류는 정말 많은데요 어떤데 있는지
 categories: japan-culture
 tags: night
 comments: false
+description: 일본 밤문화는 종류가 정말 많습니다. 그 종류는 무엇이 있으며 뭐하는 곳인지 상세하게 알려드리겠습니다. 소프랜드는 아마 제일 유명한 밤문화 중 하나라고 생각합니다. 간단히 말하면
 ---  
 
 ## 일본 밤문화 종류 및 소개

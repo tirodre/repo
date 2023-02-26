@@ -5,6 +5,7 @@ subtitle: "일본에서 밤문화 가게에 가는 사람들의 연령대는 어
 categories: japan-culture
 tags: night
 comments: false
+description: 일본에서 밤문화 가게에 가는 사람들의 연령대와 연령대별로 자주가는 밤문화 가게에 대해 알아봤습니다. 20 ~ 30대는 주로 가성비 가게를 가고
 ---
 
 ### 일본 현지인들이 나이대별로 많이 가는 밤문화는 어떤게 있을까?
