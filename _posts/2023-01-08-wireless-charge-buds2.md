@@ -6,6 +6,7 @@ categories: it-story
 tags: IT 갤럭시 무선이어폰
 comments: true
 showAds: true
+description: 갤럭시 버즈2는 Qi 방식의 무선 충전을 지원하기 때문에 대부분의 무선 충전기에서 충전할 수 있습니다. 하지만, 갤럭시 버즈2는 그냥 무선 충전기에 올리는 것만으로 무선 충전을 시작하지 않습니다.
 ---  
 
 ### 갤럭시 버즈2 무선 충전 관련 정보
