@@ -53,7 +53,7 @@ description: 일본에서 두 번째로 유명한 밤문화 데리에 대해 소
   
 접근 방법은 **일본의 밤문화 - 소프란드** 편과 거의 동일합니다.
 
-{% linkpreview "https://s.click.aliexpress.com/e/_DdKehCl" %}
+{% linkpreview "https://korean-worker.com/japan-culture/2023/02/27/sope-guide/" %}
 
 ----
 
